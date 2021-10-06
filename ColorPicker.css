@@ -1,0 +1,64 @@
+.backgroundContainers {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.blackheading {
+  font-size: 30px;
+  color: black;
+  font-family: Open Sans;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.buttoncolor1 {
+  height: 90px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: black;
+  background-color: #e0e0e0;
+}
+
+.buttoncolor2 {
+  height: 90px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: black;
+  background-color: #6fcf97;
+}
+
+.buttoncolor3 {
+  height: 90px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: black;
+  background-color: #56ccf2;
+}
+
+.buttoncolor4 {
+  height: 90px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: black;
+  background-color: #bb6bd9;
+}
+
+.backgroundcolor {
+  background-color: #222222;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Open Sans;
+  margin-top: 10px;
+}
+
+.textcolor {
+  color: #49a6e9;
+}
